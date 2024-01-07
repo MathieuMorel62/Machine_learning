@@ -161,3 +161,6 @@ cython_debug/
 
 # Main test file
 *-main.py
+
+# Saved pickle files
+*-saved.pkl
