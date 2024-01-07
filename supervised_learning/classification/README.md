@@ -1,5 +1,7 @@
 # Deep Learning Classification Project
 
+<img width="100%" alt="ml-classification" src="https://github.com/MathieuMorel62/Machine_learning/assets/113856302/849e0a86-b7d2-4fec-a271-7347b4ee30dd">
+
 ## Description
 This project aims to develop a deep neural network model for binary classification. Using the TensorFlow library, this project implements a classification model to predict two distinct classes from input data. Key features include network weight optimization, forward and backward propagation, and model performance evaluation.
 
@@ -17,6 +19,9 @@ This project aims to develop a deep neural network model for binary classificati
 - **Forward and Back Propagation**: Implementation of algorithms for forward and backward propagation in the neural network.
 - **Weight Optimization**: Use of the gradient descent algorithm to optimize network weights.
 - **Model Evaluation**: Functions for evaluating the performance of the model on a set of test data.
+
+<img width="382" alt="Capture d’écran 2024-01-07 à 18 56 09" src="https://github.com/MathieuMorel62/Machine_learning/assets/113856302/3a110b5d-5b9b-4b24-991a-11442aa5d083">
+
 
 ## List of Tasks
 0. [**Neuron**](https://github.com/MathieuMorel62/Machine_learning/blob/main/supervised_learning/classification/0-neuron.py): Implement a class to represent a unique neuron in the network.
