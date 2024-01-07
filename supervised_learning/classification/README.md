@@ -5,6 +5,10 @@
 ## Description
 This project aims to develop a deep neural network model for binary classification. Using the TensorFlow library, this project implements a classification model to predict two distinct classes from input data. Key features include network weight optimization, forward and backward propagation, and model performance evaluation.
 
+## Data
+
+The data used in this project is structured for binary classification. They include characteristics and associated labels for each entry. The data is pre-processed and formatted to be directly usable by the model. You can find the data in the [data](https://github.com/MathieuMorel62/Machine_learning/tree/main/supervised_learning/data) folder of the GitHub repository.
+
 ## Ressources
 - [TensorFlow](https://www.tensorflow.org/)
 - [NumPy](https://numpy.org/)
@@ -14,6 +18,19 @@ This project aims to develop a deep neural network model for binary classificati
 - TensorFlow 2.4 or higher.
 - NumPy 1.15 or higher.
 - Ubuntu 16.04 LTS
+
+## Installation and Configuration
+
+Make sure that all the prerequisites are installed. Then clone the repository from GitHub and install the necessary dependencies:
+
+```bash
+git clone https://github.com/MathieuMorel62/Machine_learning.git
+
+cd supervised_learning/classification
+
+./main.py
+
+```
 
 ## Main Features
 - **Forward and Back Propagation**: Implementation of algorithms for forward and backward propagation in the neural network.
