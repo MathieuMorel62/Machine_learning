@@ -73,5 +73,5 @@ cd supervised_learning/classification
 
 ## Contact
 
-- **LinkedIn Profile**: [Mathieu Morel]((https://www.linkedin.com/in/mathieu-morel-9ab457261/))
+- **LinkedIn Profile**: [Mathieu Morel](https://www.linkedin.com/in/mathieu-morel-9ab457261/)
 - **GitHub Project Link**: [Classification Project](https://github.com/MathieuMorel62/Machine_learning/tree/main/supervised_learning/classification)
